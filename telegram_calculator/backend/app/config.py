@@ -13,5 +13,5 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 if not BOT_TOKEN:
     raise ValueError("Необходимо указать BOT_TOKEN в .env файле")
 
-# URL  веб-приложения.
+# URL веб-приложения.
 WEB_APP_URL = "https://open-comics-enjoy.loca.lt"

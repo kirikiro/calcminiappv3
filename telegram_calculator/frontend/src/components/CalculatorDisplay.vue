@@ -1,4 +1,3 @@
-<!-- frontend/src/components/CalculatorDisplay.vue -->
 <template>
   <div class="calculator-display">
     {{ value }}
